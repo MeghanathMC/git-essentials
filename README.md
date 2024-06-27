@@ -140,9 +140,18 @@
 
 
 
-# shortcuts:
+## shortcuts:
 #### ctrl+c = to cut &
 #### ctrl +l = to clear all the history at once
+
+## ITALICS:
+* = make italics
+## BOLD:
+** = make bold
+## LINK:
+
+[click here](https://github.com)
+
 
 
 
