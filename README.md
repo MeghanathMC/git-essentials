@@ -130,6 +130,9 @@
 # branches are a fundamental part of git
 #### git merge newbranch = merges the  changes done in newbranch into current branch
 
+# setup github pages
+npm install gh-pages --save-dev
+
 
 
 
